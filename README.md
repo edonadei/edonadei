@@ -1,6 +1,8 @@
 ### Who am i 👀
 
 Hello, i'm edonadei A.K.A Emrick DONADEI, and Github is my playground to experiment and try out new ideas, feel free to browse !
+<br />
+<br />
 [![Twitter Follow](https://img.shields.io/twitter/follow/emrickdonadei?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fedonadei&screen_name=emrickdonadei)
 
 ### What i like 🎉
