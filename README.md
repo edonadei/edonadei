@@ -1,6 +1,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/emrickdonadei?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fedonadei&screen_name=emrickdonadei)
 
-### Who am i 👀
+### Who am i
 
 Hello, i'm edonadei A.K.A Emrick DONADEI, and Github is my playground to experiment and try out new ideas, feel free to browse !
 
@@ -34,12 +34,12 @@ Hello, i'm edonadei A.K.A Emrick DONADEI, and Github is my playground to experim
 <br />
 <br />
 
-### What i like 🎉
+### What i like
 
 Big fan of big automated and self-healing infrastructures, and injecting chaos into it 💥💥💥
 But i love to build web products with it, because it's always more convenient to look at when you have a great interface attached to it.
 
-### Where i work 📝
+### Where i work
 
 Currently working at SAP, on improving an internal CI/CD product formalizing the builds for more that 13 000 developers
 <!--
