@@ -25,7 +25,8 @@ Hello, i'm edonadei A.K.A Emrick DONADEI, and Github is my playground to experim
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://g.foolcdn.com/art/companylogos/square/mdb.png" />
+<img align="left" alt="Datadog" width="26px" src="https://cdn.worldvectorlogo.com/logos/datadog.svg" />
 <img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://cdn.shopify.com/s/files/1/1300/8977/collections/kubernetes-stacked-color_square-01_1200x1200.png?v=1524057953" />
 <img align="left" alt="Gremlin" width="26px" src="https://i.pinimg.com/originals/41/fd/50/41fd50d13d269ac267f92416a680b428.png" />
