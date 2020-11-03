@@ -36,6 +36,7 @@ Currently working at SAP, on improving an internal CI/CD product formalizing the
 <img align="left" alt="Gremlin" width="26px" src="https://i.pinimg.com/originals/41/fd/50/41fd50d13d269ac267f92416a680b428.png" />
 
 <br />
+<br />
 
 ### Connect with me
 
