@@ -5,12 +5,15 @@
 
 Hello, i'm edonadei A.K.A Emrick DONADEI, and Github is my playground to experiment and try out new ideas, feel free to browse !
 
-### Connect with me
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/emrickdonadei)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/emrick-donadei/)
+### What i like
 
-<br />
+Big fan of big automated and self-healing infrastructures, and injecting chaos into it 💥💥💥
+But i love to build web products with it, because it's always more convenient to look at when you have a great interface attached to it.
+
+### Where i work
+
+Currently working at SAP, on improving an internal CI/CD product formalizing the builds for more that 13 000 developers
 
 
 ### Languages and Tools
@@ -32,17 +35,13 @@ Hello, i'm edonadei A.K.A Emrick DONADEI, and Github is my playground to experim
 <img align="left" alt="Kubernetes" width="26px" src="https://cdn.shopify.com/s/files/1/1300/8977/collections/kubernetes-stacked-color_square-01_1200x1200.png?v=1524057953" />
 <img align="left" alt="Gremlin" width="26px" src="https://i.pinimg.com/originals/41/fd/50/41fd50d13d269ac267f92416a680b428.png" />
 
+### Connect with me
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/emrickdonadei)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/emrick-donadei/)
+
 <br />
-<br />
 
-### What i like
-
-Big fan of big automated and self-healing infrastructures, and injecting chaos into it 💥💥💥
-But i love to build web products with it, because it's always more convenient to look at when you have a great interface attached to it.
-
-### Where i work
-
-Currently working at SAP, on improving an internal CI/CD product formalizing the builds for more that 13 000 developers
 <!--
 **edonadei/edonadei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
