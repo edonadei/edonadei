@@ -1,5 +1,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/emrickdonadei?style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fedonadei&screen_name=emrickdonadei)
 [![Github Follow](https://img.shields.io/github/followers/edonadei?label=Follow&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fedonadei&screen_name=emrickdonadei)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/emrick-donadei/)
 
 ### Who am i
 
@@ -34,16 +35,6 @@ Currently working at SAP, on improving an internal CI/CD product formalizing the
 <img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://cdn.shopify.com/s/files/1/1300/8977/collections/kubernetes-stacked-color_square-01_1200x1200.png?v=1524057953" />
 <img align="left" alt="Gremlin" width="26px" src="https://i.pinimg.com/originals/41/fd/50/41fd50d13d269ac267f92416a680b428.png" />
-
-<br />
-<br />
-
-### Connect with me
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/emrickdonadei)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/emrick-donadei/)
-
-<br />
 
 <!--
 **edonadei/edonadei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
