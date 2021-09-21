@@ -4,20 +4,19 @@
 
 ### Who am i
 
-Hello, i'm edonadei A.K.A Emrick DONADEI, and Github is my playground to experiment and try out new ideas, feel free to browse !
+What's up? I'm Emrick, and Github is my playground to experiment and try out new ideas!
 
 
 ### What i like
 
-Big fan of big automated and self-healing infrastructures, and injecting chaos into it 💥💥💥
-But i love to build web products with it, because it's always more convenient to look at when you have a great interface attached to it.
+I'm a big fan of big automated and self-healing infrastructures, and injecting chaos into it 💥💥💥 I love to build web products with it, because it's always more convenient to look at when you have a great interface attached to it.
 
 ### Where i work
 
 Currently working at SAP, on improving an internal CI/CD product formalizing the builds for more that 13 000 developers
 
 
-### Languages and Tools
+### My stack
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
