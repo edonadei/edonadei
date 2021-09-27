@@ -11,10 +11,6 @@ What's up? I'm Emrick, and Github is my playground to experiment and try out new
 
 I'm a big fan of big automated and self-healing infrastructures, and injecting chaos into it. I also love to build web products with it, because it's always more convenient to look at when you have a great interface attached to it.
 
-### Where i work
-
-Currently working at SAP, on improving an internal CI/CD product formalizing the builds for more that 13 000 developers
-
 
 ### My stack
 
