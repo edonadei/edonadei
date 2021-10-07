@@ -2,17 +2,17 @@
 [![Github Follow](https://img.shields.io/github/followers/edonadei?label=Follow&style=social)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fedonadei&screen_name=emrickdonadei)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/emrick-donadei/)
 
-### Who am i
+### Who am I
 
 What's up? I'm Emrick, and Github is my playground to experiment and try out new ideas!
 
 
-### What i like
+### What I like
 
 I'm a big fan of big automated and self-healing infrastructures, and injecting chaos into it. I also love to build web products with it, because it's always more convenient to look at when you have a great interface attached to it.
 
 
-### My stack
+### Stack
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
