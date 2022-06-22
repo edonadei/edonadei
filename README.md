@@ -5,7 +5,7 @@
 Wow, you landed here, congrats! 
 Hope you are doing well 👋
 
-Currently doing cool things @Zendesk
+Currently doing cool things @Google
 
 If you want to reach me, ping me on Linkedin or through my email.
 
