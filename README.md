@@ -7,8 +7,6 @@ Hope you are doing well 👋
 
 Currently doing cool things @Google
 
-If you want to reach me, ping me on Linkedin or through my email.
-
 <!--
 **edonadei/edonadei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
